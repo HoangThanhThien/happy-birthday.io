@@ -398,6 +398,7 @@ body {
 .video__para {
     width: 50%;
     font-size: calc(var(--unit)*2.2);
+    text-align: justify;
 }
 
 .image-3 {
